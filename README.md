@@ -11,7 +11,7 @@
 7) Front-end
 8) Back-end
 
-# Hosting URL: 
+# Hosting URL: s
 https://linkedin-clone-personalproject.web.app
 
 # My Personal Notes
