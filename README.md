@@ -1,5 +1,10 @@
 # Linkedin-clone-personal-project
 
+# Hosting URL: 
+https://linkedin-clone-personalproject.web.app
+
+![Linkedin ](https://user-images.githubusercontent.com/63961200/115818588-a98de900-a42f-11eb-8e91-8963d172ca04.gif)
+
 # Tech in my project build
 
 1) React
@@ -11,8 +16,13 @@
 7) Front-end
 8) Back-end
 
-# Hosting URL: 
-https://linkedin-clone-personalproject.web.app
+# Steps to deploy my project using firebase
+
+1) npm install -g firebase-tools
+2) firebase init (hosting > build > y > n)
+3) npm run build
+4) firebase use "project id"
+5) firebase deploy
 
 # My Personal Notes
 
@@ -57,10 +67,4 @@ user.email[0]
 const [posts, setPosts] = useState("");
 
 
-# Steps to deploy my project using firebase
 
-1) npm install -g firebase-tools
-2) firebase init (hosting > build > y > n)
-3) npm run build
-4) firebase use "project id"
-5) firebase deploy
