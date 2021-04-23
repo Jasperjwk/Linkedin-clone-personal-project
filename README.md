@@ -4,7 +4,6 @@
 https://linkedin-clone-personalproject.web.app
 
 ![Linkedin ](https://user-images.githubusercontent.com/63961200/115818588-a98de900-a42f-11eb-8e91-8963d172ca04.gif)
-
 # Tech in my project build
 
 1) React
